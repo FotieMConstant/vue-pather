@@ -1,0 +1,13 @@
+{
+  "name": "vue-pather",
+  "version": "1.0.0",
+  "description": "A Script to correct vue apps paths in production for hosting on Apache servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
