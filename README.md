@@ -10,5 +10,5 @@ To run the script hit:
 - Enter the name of the file (`index.html`)
 Note: This script should be in the same directory with your production code `index.html` for it to work proparly.
 
-## vue-pather?
+## Why vue-pather?
 It's tedious to always have to rename the path in your `index.html` so this automates the process for you.
